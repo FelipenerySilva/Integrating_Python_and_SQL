@@ -1,5 +1,5 @@
 # Integrating_Python_and_SQL
-This repository contains a python file integrating with data in Microsoft SQL Server Management Studio.
+This repository contains a python project file integrating with data in Microsoft SQL Server Management Studio.
 
-In this project I have demonstraded how to connect python and SQL. In addition, I have used the pandas library 
-to prepare the data to calculate the company's profit and plot the results in a time line graphic. 
+In this project I demonstraded how to connect python and SQL. Additionally, I utelized the pandas library 
+to prepare the data for calculating the company's profit and plotting the results in a time line graphic. 
